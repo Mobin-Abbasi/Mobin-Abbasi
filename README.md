@@ -29,7 +29,7 @@ Junior Backend Developer
     <img src="https://github.com/Mobin-Abbasi/Mobin-Abbasi/blob/main/1_J3G3akaMpUOLegw0p0qthA.png?raw=true" width="80" height="50" alt="api">
 </a>
 <a href="https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/3b6f9b5c1feebc115b10c54122481a41f2456e95/celery_512.svg" width="50" height="50" alt="celery">
+    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/9f408b2f95d87830d844571e4ca0ec76b87a5af1/celery_512.svg" width="50" height="50" alt="celery">
 </a>
 
 <br>
