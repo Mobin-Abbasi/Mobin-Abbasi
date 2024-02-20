@@ -1,9 +1,13 @@
 <h2>Hi 🙋‍♂️ My name is Mobin Abbasi</h2>
-Junior Backend Developer
 
-<br>
+- 🌱 Junior Backend Developer
+  
+- 👀 I’m currently learning celery
 
-### Skills
+
+---
+
+### 🛠️ Skills :
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/19e8ef7e7136aa9d1ace12676ed79d29e3fd256a/HTML.svg" width="50" height="50" alt="html">
 </a>
@@ -26,9 +30,10 @@ Junior Backend Developer
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Postman.svg" width="45" height="45" alt="postman">
 </a>
 
-<br>
 
-### social network
+---
+
+### 🌐 social network :
 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/LinkedIn.svg" width="45" height="45" alt="linkedin">
@@ -44,4 +49,9 @@ Junior Backend Developer
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Github-Dark.svg" width="45" height="45" alt="github">
 </a>
 
+---
 
+### 🔥 My Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobin-Abbasi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Abbasi&layout=compact)
