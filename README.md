@@ -23,11 +23,17 @@
 <a href="https://docs.djangoproject.com/en/5.0/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Django.svg" width="50" height="50" alt="django">
 </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/Docker.svg" width="50" height="50" alt="Docker">
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Git.svg" width="50" height="50"" alt="git">
 </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<a href="https://en.wikipedia.org/wiki/SQLite" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/PostgreSQL-Dark.svg" width="50" height="50"" alt="postgresql">
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/SQLite.svg" width="50" height="50"" alt="sqlite03">
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Postman.svg" width="45" height="45" alt="postman">
@@ -38,7 +44,7 @@
 
 ### 🌐 social network :
 
-<a href="https://www.linkedin.com/in/mobin-abbasi/" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/LinkedIn.svg" width="45" height="45" alt="linkedin">
 </a>
 <a href="https://www.instagram.com/mbn.abs/" target="_blank" rel="noreferrer">
