@@ -25,6 +25,9 @@
 <a href="https://docs.djangoproject.com/en/5.0/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Django.svg" width="50" height="50" alt="django">
 </a>
+<a href="https://www.linux.org/#google_vignette" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/cb53c23f0a1ae30a0fef03d37231c71d6947b236/Linux-Dark.svg" width="50" height="50" alt="linux">
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/Docker.svg" width="50" height="50" alt="Docker">
 </a>
