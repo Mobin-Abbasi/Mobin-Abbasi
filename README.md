@@ -9,41 +9,46 @@
 
 ---
 
-### 🛠️ Skills :
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+### 🛠️ Skills & Tools :
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/19e8ef7e7136aa9d1ace12676ed79d29e3fd256a/HTML.svg" width="50" height="50" alt="html">
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/CSS.svg" width="50" height="50" alt="css">
 </a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/c37d3829c60ad92b05c5635d999fe7815cb4cd3f/Bootstrap.svg" width="50" height="50" alt="Bootstrap.svg">
 </a>
-<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Python-Dark.svg" width="50" height="50" alt="python">
 </a>
-<a href="https://docs.djangoproject.com/en/5.0/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Django.svg" width="50" height="50" alt="django">
 </a>
-<a href="https://www.linux.org/#google_vignette" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/cb53c23f0a1ae30a0fef03d37231c71d6947b236/Linux-Dark.svg" width="50" height="50" alt="linux">
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="50" height="50" alt="ubuntu">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/Docker.svg" width="50" height="50" alt="Docker">
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Git.svg" width="50" height="50"" alt="git">
 </a>
-<a href="https://en.wikipedia.org/wiki/SQLite" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/PostgreSQL-Dark.svg" width="50" height="50"" alt="postgresql">
 </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/SQLite.svg" width="50" height="50"" alt="sqlite03">
 </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="50" height="50"" alt="pycharm">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Postman.svg" width="50" height="50" alt="postman">
 </a>
-
 
 ---
 
