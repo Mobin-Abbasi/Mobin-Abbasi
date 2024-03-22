@@ -10,6 +10,13 @@
 ---
 
 ### 🛠️ Skills & Tools :
+
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Python-Dark.svg" width="50" height="50" alt="python">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Django.svg" width="50" height="50" alt="django">
+</a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/19e8ef7e7136aa9d1ace12676ed79d29e3fd256a/HTML.svg" width="50" height="50" alt="html">
 </a>
@@ -18,12 +25,6 @@
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/c37d3829c60ad92b05c5635d999fe7815cb4cd3f/Bootstrap.svg" width="50" height="50" alt="Bootstrap.svg">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Python-Dark.svg" width="50" height="50" alt="python">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Django.svg" width="50" height="50" alt="django">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/cb53c23f0a1ae30a0fef03d37231c71d6947b236/Linux-Dark.svg" width="50" height="50" alt="linux">
