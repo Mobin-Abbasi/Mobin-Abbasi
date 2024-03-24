@@ -56,6 +56,9 @@
 ### 🌐 social network :
 
 <a href="https://www.instagram.com/mbn.abs/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="50" height="50" alt="instagram">
+</a>
+<a href="https://www.instagram.com/mbn.abs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Instagram.svg" width="50" height="50" alt="instagram">
 </a>
 <a href="https://github.com/Mobin-Abbasi" target="_blank" rel="noreferrer">
