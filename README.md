@@ -33,6 +33,9 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="50" height="50" alt="ubuntu">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RedHat-Dark.svg" width="50" height="50" alt="ubuntu">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/Docker.svg" width="50" height="50" alt="Docker">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
