@@ -9,7 +9,7 @@
   
 <h2>🛠 Skills</h2>
 
-#### Languages & Framework
+#### Languages & Framework :
 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Python-Dark.svg" width="42" height="40" alt="python">
@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/c37d3829c60ad92b05c5635d999fe7815cb4cd3f/Bootstrap.svg" width="42" height="40" alt="Bootstrap">
 </a>
 
-#### DevOps
+#### DevOps :
 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/cb53c23f0a1ae30a0fef03d37231c71d6947b236/Linux-Dark.svg" width="42" height="40" alt="linux">
@@ -54,7 +54,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" width="42" height="40" alt="Jenkins">
 </a>
 
-#### DataBasee
+#### DataBasee :
 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/PostgreSQL-Dark.svg" width="42" height="40" alt="postgresql">
@@ -66,8 +66,7 @@
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/SQLite.svg" width="42" height="40" alt="sqlite03">
 </a>
 
-#### Tools
-
+#### Tools :
 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" width="40" height="42" alt="postman">
