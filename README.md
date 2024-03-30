@@ -6,8 +6,6 @@
 - 🌱 Junior Backend Developer
   
 - 👀 I’m currently learning celery
-
-<hr>
   
 <h2>🛠 Skills</h2>
 
@@ -80,8 +78,6 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Postman.svg" width="40" height="40" alt="postman">
 </a>
-
-<hr>
 
 <h2>🔥 My Stats</h2>
 
