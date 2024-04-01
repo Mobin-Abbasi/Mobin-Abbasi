@@ -54,7 +54,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" width="42" height="40" alt="Jenkins">
 </a>
 
-#### DataBasee :
+#### DataBase :
 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/PostgreSQL-Dark.svg" width="42" height="40" alt="postgresql">
