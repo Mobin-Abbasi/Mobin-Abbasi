@@ -12,31 +12,31 @@
 #### Languages & Framework :
 
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Python-Dark.svg" width="42" height="40" alt="python">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="42" height="40" alt="python">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Django.svg" width="42" height="40" alt="django">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" width="42" height="40" alt="django">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/19e8ef7e7136aa9d1ace12676ed79d29e3fd256a/HTML.svg" width="42" height="40" alt="html">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="42" height="40" alt="html">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/CSS.svg" width="42" height="40" alt="css">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="42" height="40" alt="css">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/c37d3829c60ad92b05c5635d999fe7815cb4cd3f/Bootstrap.svg" width="42" height="40" alt="Bootstrap">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="42" height="40" alt="Bootstrap">
 </a>
 
 #### DevOps :
 
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/cb53c23f0a1ae30a0fef03d37231c71d6947b236/Linux-Dark.svg" width="42" height="40" alt="linux">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="42" height="40" alt="linux">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="42" height="40" alt="ubuntu">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Git.svg" width="42" height="40" alt="git">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="42" height="40" alt="git">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="42" height="40" alt="Docker">
@@ -57,13 +57,13 @@
 #### DataBase :
 
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/PostgreSQL-Dark.svg" width="42" height="40" alt="postgresql">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="42" height="40" alt="postgresql">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="42" alt="MySQL">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/bb592a1ceb5dd31de5353fd44deec62a1a8b24c5/SQLite.svg" width="42" height="40" alt="sqlite03">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width="42" height="40" alt="sqlite03">
 </a>
 
 #### Tools :
@@ -75,7 +75,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="40" height="42" alt="pycharm">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mobin-Abbasi/Mobin-Abbasi/f1687e676ad390e3acc86c05ad30def42d641207/Postman.svg" width="42" height="40" alt="postman">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="42" height="40" alt="postman">
 </a>
 
 <h2>🔥 My Stats</h2>
