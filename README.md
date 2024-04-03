@@ -1,11 +1,11 @@
-<h2>Hi 🙋‍♂️ My name is Mobin Abbasi</h2>
+<h2>Hi There 🙋‍♂️ Welcome to my GitHub</h2>
 
 <img src="https://github.com/Mobin-Abbasi/Mobin-Abbasi/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).png?raw=true" alt="background">
 
 
 - 🌱 Junior Backend Developer
   
-- 👀 I’m currently learning celery
+- 👀 I’m currently learning kubernetes
   
 <h2>🛠 Skills</h2>
 
