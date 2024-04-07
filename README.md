@@ -65,6 +65,9 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width="42" height="40" alt="sqlite03">
 </a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" width="42" height="40" alt="Redis">
+</a>
 
 #### Tools :
 
