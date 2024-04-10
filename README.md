@@ -4,8 +4,10 @@
 
 
 - 🌱 Junior Backend Developer
+
+- 👀 Trying to become a DevOps engineer
   
-- 👀 I’m currently learning kubernetes
+- 💪 I’m currently learning kubernetes
   
 <h2>🛠 Skills</h2>
 
