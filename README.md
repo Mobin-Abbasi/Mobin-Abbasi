@@ -60,7 +60,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="42" height="40" alt="postgresql">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="42" alt="MySQL">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="42" height="40" alt="MySQL">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width="42" height="40" alt="sqlite03">
@@ -72,10 +72,10 @@
 #### Tools :
 
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" width="40" height="42" alt="postman">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" width="42" height="40" alt="postman">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="40" height="42" alt="pycharm">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="42" height="40" alt="pycharm">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="42" height="40" alt="postman">
