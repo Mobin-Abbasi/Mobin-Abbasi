@@ -44,16 +44,13 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="42" height="40" alt="Docker">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg" width="42" height="40" alt="Azure">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Terraform-Dark.svg" width="42" height="40" alt="Terraform">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ansible.svg" width="42" height="40" alt="Ansible">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" width="42" height="40" alt="Jenkins">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" width="42" height="40" alt="GitLab">
 </a>
 
 #### DataBase :
