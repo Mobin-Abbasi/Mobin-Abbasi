@@ -5,9 +5,10 @@
 
 - 🌱 Junior Backend Developer
 
+- 💪 I’m currently updating
+
 - 👀 Trying to become a DevOps engineer
-  
-- 💪 I’m currently learning kubernetes
+
   
 <h2>🛠 Skills</h2>
 
@@ -29,13 +30,16 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="42" height="40" alt="Bootstrap">
 </a>
 
-#### DevOps :
+#### Tools :
 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="42" height="40" alt="linux">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="42" height="40" alt="ubuntu">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="42" height="40" alt="pycharm">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="42" height="40" alt="postman">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="42" height="40" alt="git">
@@ -43,18 +47,6 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="42" height="40" alt="Docker">
 </a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ansible.svg" width="42" height="40" alt="Ansible">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" width="42" height="40" alt="Jenkins">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" width="42" height="40" alt="GitLab">
-</a>
-
-#### DataBase :
-
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="42" height="40" alt="postgresql">
 </a>
@@ -67,17 +59,8 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" width="42" height="40" alt="Redis">
 </a>
-
-#### Tools :
-
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" width="42" height="40" alt="postman">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="42" height="40" alt="pycharm">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="42" height="40" alt="postman">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RabbitMQ-Dark.svg" width="42" height="40" alt="Rabbitmq">
 </a>
 
 <h2>🔥 My Stats</h2>
