@@ -33,7 +33,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="42" height="40" alt="linux">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="42" height="40" alt="pycharm">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="42" height="40" alt="vscode">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="42" height="40" alt="postman">
