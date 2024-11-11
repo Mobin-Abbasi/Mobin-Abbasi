@@ -20,15 +20,12 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" width="42" height="40" alt="django">
 </a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="42" height="40" alt="html">
+<!-- <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" width="42" height="40" alt="fastapi">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="42" height="40" alt="css">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="42" height="40" alt="Bootstrap">
-</a>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" width="42" height="40" alt="flask">
+</a> -->
 
 #### Tools :
 
@@ -50,18 +47,18 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="42" height="40" alt="postgresql">
 </a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="42" height="40" alt="MySQL">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width="42" height="40" alt="sqlite03">
-</a>
-<a href="#" target="_blank" rel="noreferrer">
+<!-- <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" width="42" height="40" alt="mongodb">
+</a> -->
+<!-- <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" width="42" height="40" alt="Redis">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RabbitMQ-Dark.svg" width="42" height="40" alt="Rabbitmq">
-</a>
+</a> -->
+<!-- <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Nginx.svg" width="42" height="40" alt="ngnix">
+</a> -->
 
 <h2>🔥 My Stats</h2>
 
