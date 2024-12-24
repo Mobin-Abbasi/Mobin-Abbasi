@@ -3,11 +3,9 @@
 <img src="Black Minimal Motivation Quote LinkedIn Banner.jpg" alt="background">
 
 
-- 🌱 Junior Backend Developer
+- 🌱 Mid-level Backend Developer
 
 - 💪 I’m currently updating
-
-- 👀 Trying to become a DevOps engineer
 
   
 <h2>🛠 Skills</h2>
