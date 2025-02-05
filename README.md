@@ -13,6 +13,9 @@
 #### Languages & Framework :
 
 <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/sckrp/skills-icons/8857a82d177eafd06ce3d7a067d49f6366372d7e/icons/c.svg" width="47" height="45" alt="c">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/python.svg" width="47" height="45" alt="python">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
