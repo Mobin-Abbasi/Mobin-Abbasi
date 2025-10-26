@@ -22,14 +22,11 @@
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/django.svg" width="47" height="45" alt="django">
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/e67de94bb9ded60f49f2cf44625521b6a722cbf7/icons/djangorestframework.svg" width="47" height="45" alt="django-rest-framework">
-</a>
-<!-- <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/flask.svg" width="47" height="45" alt="flask">
 </a> 
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/e67de94bb9ded60f49f2cf44625521b6a722cbf7/icons/fastapi.svg" width="47" height="45" alt="fastapi">
-</a> -->
+</a>
 
 #### Tools :
 
