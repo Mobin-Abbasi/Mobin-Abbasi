@@ -2,12 +2,6 @@
 
 <img src="Black Minimal Motivation Quote LinkedIn Banner.jpg" alt="background">
 
-
-- 🌱 Mid-level Backend Developer
-
-- 💪 I’m currently updating
-
-  
 <h2>🛠 Skills</h2>
 
 #### Languages & Framework :
