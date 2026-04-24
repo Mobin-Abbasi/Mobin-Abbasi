@@ -30,6 +30,9 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/git.svg" width="47" height="45" alt="git">
 </a>
+<!-- <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/pydantic.svg" width="47" height="45" alt="pydantic">
+</a> -->
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/jwt.svg" width="47" height="45" alt="jwt">
 </a>
@@ -42,6 +45,9 @@
 <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/postgresql.svg" width="47" height="45" alt="postgresql">
 </a>
+<!-- <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/sqlalchemy.svg" width="47" height="45" alt="sqlalchemy">
+</a> -->
 <!-- <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ixrzr/skills-icons/1be67fef5dc6af67c07ec696ce6b134d5fa25a01/icons/mongodb.svg" width="47" height="45" alt="mongodb">
 </a> -->
